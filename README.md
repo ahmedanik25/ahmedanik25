@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Mushfiq Ahmed Anik👋
 
-<!--
-**ahmedanik25/ahmedanik25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Computer Science and Engineering graduate with professional experience in IT support, software troubleshooting, client communication, data management, and manual software testing.
 
-Here are some ideas to get you started:
+I enjoy solving technical problems, improving system reliability, and continuously developing my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- IT Support and Troubleshooting
+- SQL and Database Querying
+- Manual Software Testing
+- Data Management and Data Quality
+- Microsoft Excel and Word
+- Client Support and Communication
+
+## Areas of Interest
+- Software Quality Assurance (SQA)
+- Database Management
+- Artificial Intelligence
+- IT Operations and System Support
+
+## Portfolio Projects
+My portfolio is under development. I plan to showcase practical projects in SQL, software testing, and web applications.
+
+## Professional Goal
+To strengthen my technical expertise and contribute to reliable, user-focused technology solutions.
+
+---
+*Always learning. Always improving.*
